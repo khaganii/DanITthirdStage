@@ -68,14 +68,14 @@ h2{
     margin-left: 35px;
     width: 170px;
     height: 136px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 .text-part{
     margin-left: 20px;
     width: 825px;
     height: 138px;
-    border: 1px solid red;
+    /* border: 1px solid red; */
 }
 
 #text{
