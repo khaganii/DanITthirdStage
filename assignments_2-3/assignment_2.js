@@ -1,0 +1,1 @@
+console.log("This is answer of 2nd assignment -------> ");
